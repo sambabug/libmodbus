@@ -51,3 +51,4 @@ tests/version
 tests/stamp-h2
 .vs
 debug
+*.pdb
